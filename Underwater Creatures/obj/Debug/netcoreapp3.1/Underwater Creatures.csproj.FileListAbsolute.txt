@@ -1,0 +1,13 @@
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\Underwater Creatures\bin\Debug\netcoreapp3.1\Underwater Creatures.exe
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\Underwater Creatures\bin\Debug\netcoreapp3.1\Underwater Creatures.deps.json
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\Underwater Creatures\bin\Debug\netcoreapp3.1\Underwater Creatures.runtimeconfig.json
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\Underwater Creatures\bin\Debug\netcoreapp3.1\Underwater Creatures.runtimeconfig.dev.json
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\Underwater Creatures\bin\Debug\netcoreapp3.1\Underwater Creatures.dll
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\Underwater Creatures\bin\Debug\netcoreapp3.1\Underwater Creatures.pdb
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\Underwater Creatures\obj\Debug\netcoreapp3.1\Underwater Creatures.csprojAssemblyReference.cache
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\Underwater Creatures\obj\Debug\netcoreapp3.1\Underwater Creatures.AssemblyInfoInputs.cache
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\Underwater Creatures\obj\Debug\netcoreapp3.1\Underwater Creatures.AssemblyInfo.cs
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\Underwater Creatures\obj\Debug\netcoreapp3.1\Underwater Creatures.csproj.CoreCompileInputs.cache
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\Underwater Creatures\obj\Debug\netcoreapp3.1\Underwater Creatures.dll
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\Underwater Creatures\obj\Debug\netcoreapp3.1\Underwater Creatures.pdb
+C:\Users\Hope\Desktop\ITP Summer 2020\Projects\Underwater Creatures\obj\Debug\netcoreapp3.1\Underwater Creatures.genruntimeconfig.cache

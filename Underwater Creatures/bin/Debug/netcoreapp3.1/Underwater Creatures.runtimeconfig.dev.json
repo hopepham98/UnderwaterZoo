@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Hope\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Hope\\.nuget\\packages"
+    ]
+  }
+}
